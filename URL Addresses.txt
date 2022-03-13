@@ -1,0 +1,8 @@
+URL notation for the successfully hosted web pages :
+
+https://github.com/tony-ty-ive?tab=repositories
+https://github.com/tony-ty-ive/ite3006
+https://github.com/tony-ty-ive/ite3006/settings/pages
+
+https://tony-ty-ive.github.io/ite3006/
+https://tony-ty-ive.github.io/ite3006/sample_web/index.html
